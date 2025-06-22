@@ -1,0 +1,2 @@
+A real-time audio visualizer that creates dynamic visual effects responding to music. Built with HTML5 Canvas and Web Audio API, it offers three visualization styles: frequency bars, circular spectrum, and waveform. Simply upload an audio file or use your microphone to see the magic happen.
+Upload an audio file (MP3, WAV, etc.) or click "Use Microphone", then press play to start visualizing. Switch between different styles using the dropdown menu. No installation required - just open and enjoy!
